@@ -1,0 +1,5 @@
+
+=== Error correction and assembling warnings:
+ * 0:00:14.377     6M / 439M  WARN    General                 (pair_info_count.cpp       : 376)   Estimated mean insert size 240.098 is very small compared to read length 251
+ * 0:00:16.090     6M / 439M  WARN    General                 (launcher.cpp              : 178)   Your data seems to have high uniform coverage depth. It is strongly recommended to use --isolate option.
+======= Warnings saved to /home/exercise03/exercise03/sars_cov_2/warnings.log

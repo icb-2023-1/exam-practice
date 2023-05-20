@@ -1,0 +1,7 @@
+- "left reads":
+  - "/home/exercise03/exercise03/data/SRR13668359_1.fastq.gz"
+  "number": !!int "1"
+  "orientation": "fr"
+  "right reads":
+  - "/home/exercise03/exercise03/data/SRR13668359_2.fastq.gz"
+  "type": "paired-end"

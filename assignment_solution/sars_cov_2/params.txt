@@ -1,0 +1,33 @@
+Command line: /usr/local/bin/spades.py	-1	/home/exercise03/exercise03/data/SRR13668359_1.fastq.gz	-2	/home/exercise03/exercise03/data/SRR13668359_2.fastq.gz	-o	/home/exercise03/exercise03/sars_cov_2	--only-assembler	
+
+System information:
+  SPAdes version: 3.15.0
+  Python version: 3.7.10
+  OS: Linux-5.4.104+-x86_64-with-debian-9.8
+
+Output dir: /home/exercise03/exercise03/sars_cov_2
+Mode: ONLY assembling (without read error correction)
+Debug mode is turned OFF
+
+Dataset parameters:
+  Standard mode
+  For multi-cell/isolate data we recommend to use '--isolate' option; for single-cell MDA data use '--sc'; for metagenomic data use '--meta'; for RNA-Seq use '--rna'.
+  Reads:
+    Library number: 1, library type: paired-end
+      orientation: fr
+      left reads: ['/home/exercise03/exercise03/data/SRR13668359_1.fastq.gz']
+      right reads: ['/home/exercise03/exercise03/data/SRR13668359_2.fastq.gz']
+      interlaced reads: not specified
+      single reads: not specified
+      merged reads: not specified
+Assembly parameters:
+  k: automatic selection based on read length
+  Repeat resolution is enabled
+  Mismatch careful mode is turned OFF
+  MismatchCorrector will be SKIPPED
+  Coverage cutoff is turned OFF
+Other parameters:
+  Dir for temp files: /home/exercise03/exercise03/sars_cov_2/tmp
+  Threads: 16
+  Memory limit (in Gb): 7
+

@@ -1,0 +1,13 @@
+chr2L	FlyBase	gene	7309715	7316265	.	+	.	gene_name "wg";
+chr2L	FlyBase	transcript	7307159	7316265	.	+	.	gene_name "wg"; transcript_name "wg-RA";
+chr2L	FlyBase	exon	7307159	7307707	.	+	.	exon_number "1"; gene_name "wg"; transcript_name "wg-RA";
+chr2L	FlyBase	start_codon	7307592	7307594	.	+	0	exon_number "1"; gene_name "wg"; transcript_name "wg-RA";
+chr2L	FlyBase	exon	7309386	7309636	.	+	.	exon_number "2"; gene_name "wg"; transcript_name "wg-RA";
+chr2L	FlyBase	exon	7312838	7313139	.	+	.	exon_number "3"; gene_name "wg"; transcript_name "wg-RA";
+chr2L	FlyBase	exon	7314318	7314748	.	+	.	exon_number "4"; gene_name "wg"; transcript_name "wg-RA";
+chr2L	FlyBase	exon	7314880	7316265	.	+	.	exon_number "5"; gene_name "wg"; transcript_name "wg-RA";
+chr2L	FlyBase	stop_codon	7315184	7315186	.	+	0	exon number "5"; gene_name "wg"; transcript_name "wg-RA"; 
+chr2L	FlyBase	five_prime_utr	7307159	7307591	.	+	.	gene_name "wg"; transcript_name "wg-RA";
+chr2L	FlyBase	three_prime_utr	7315187	7316265	.	+	.	gene_name "wg"; transcript_name "wg-RA";
+chr2R	FlyBase	gene	9494166	9503188	.	+	.	gene_name "Wnt2";
+chr2R	FlyBase	transcript	9494166	9503188	.	+	.	gene_name "Wnt2"; transcript_name "Wnt2-RB";
